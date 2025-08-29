@@ -48,7 +48,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/Ald0Perez/Banco-Wellington" title="Go to Source">
-        <img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4D2DAQEwJ6aYid8jlw/profile-treasury-image-shrink_800_800/B4DZiCp_H2H8Ag-/0/1754538701815?e=1757044800&v=beta&t=EA7mlbcMTw7R_ulsoo0xvFLCMd40tkFqPpQ6L1kO18g"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4D22AQF2FI_82b8FMw/feedshare-shrink_800/B4DZj3jkUpGQAk-/0/1756499953381?e=1759363200&v=beta&t=HRBsluoA-IFJmkTMJNnqBt0ELA1-gcJBiXJJf8ti5sw"   alt="VIDEO" /></a>
       </p>
     <p align="center">
 		<h4>Página web de banco con Java, Servlets, Javascript, etc..</h4>
